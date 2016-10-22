@@ -1,2 +1,0 @@
-# learning-mongoose
-Learning Mongoose
